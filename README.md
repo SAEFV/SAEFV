@@ -1,11 +1,11 @@
 <h1>Hi, I’m @SAEFV </h1>
 <h2>
   I’m interested in. <br>
-    python, Django, cryptography.
+    linux, servers and IT infrastructure
 </h2>
 <h2>
   I’m currently learning. <br>
-  Python, Django, SQLite3.
+  Puppet, Docker, kubernetes and self hosting
 </h2>
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
