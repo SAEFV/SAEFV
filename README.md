@@ -1,7 +1,7 @@
 # 👋 Hey, I'm SAEFV
 
 > _"I’m not a coder. I’m just a guy with internet access and terminal tabs."_  
-> _Break it. Why does it work? No idea. But hey, I made something._
+> _Break it. Why does it work? No idea. But hey, It's alive._
 
 ---
 
