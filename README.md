@@ -40,7 +40,7 @@ I break things because they stop making sense until I do.
 
 ---
 
-## 💬 Let's Talk
+## Let's Talk
 
 -  [saefv.nl](https://saefv.nl) (dont have the hardware to host the site XD)
 -  Check my commits — they tell better stories than I do.
