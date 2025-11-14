@@ -38,5 +38,5 @@ I break things because they stop making sense until I do.
 
 ---
 
-> _"FOSS, chaos, and curiosity."_  
+> _"FOSS and chaos."_  
 > — SAEFV
