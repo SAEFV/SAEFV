@@ -8,8 +8,7 @@
 ## What I Do (or break)
 
 - Linux enjoyer (Ubuntu Server is home)
-- DevOps tinkerer — Puppet, system configs, light scripting
-- Infra curious — networks, VMs, servers... if it runs, I’ll poke it
+- Infra — networks, VMs, servers
 - Learning by doing (and breaking)
 - Automate first, understand later
 
@@ -17,23 +16,15 @@
 
 ## Current Interests
 
-- Puppet setup experiments
+- canonical solutions
 - Home lab vibes
 - Lightweight self-hosting
-- Markdown documentation for everything
-
----
-
-## Projects & Logs
-
-You’ll find messy notes, random automation, and maybe a working setup or two.  
-No guarantees. Just vibes and curiosity.
+- Markdown documentation for everything, if i document ¬_¬
 
 ---
 
 ## Philosophy
-
-I document things so I don't forget.  
+ 
 I test things so others don’t have to.  
 I learn because I can.  
 I break things because they stop making sense until I do.
